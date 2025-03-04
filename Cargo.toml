@@ -1,6 +1,5 @@
 [package]
 name = "juliet"
-version = "0.0.0"
 edition = "2024"
 repository = "https://github.com/redactedontop/juliet"
 
