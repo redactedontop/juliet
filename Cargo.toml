@@ -1,0 +1,21 @@
+[package]
+name = "juliet"
+version = "0.0.1"
+edition = "2024"
+authors = [
+    "Alex (@redactedontop)",
+    "Dreamlight Glitter (@AliceRoselia)",
+    "Sunny Shaban Ali (@sunnyallana)",
+    "Shawn Xu (@xu-shawn)",
+    "Ariana (@arianahejazyan)",
+    "Lucario (@Lucario6607)",
+]
+description = "A revolutionary chess engine powered by Rust."
+repository = "https://github.com/redactedontop/juliet"
+keywords = ["rust", "chess"]
+
+[profile.release]
+lto = true
+strip = true
+
+[dependencies]
