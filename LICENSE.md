@@ -1,0 +1,34 @@
+THE ANTI-"FAT FRITZ 2" LICENSE (Version 1)
+Copyright (c) 2025, Alexander.
+All rights reserved.
+
+Definitions:
+  a. "Source Code" means the original code and all accompanying documentation provided by the Licensor.
+  b. "Derivative Work" means any work based on the Source Code that incorporates substantial modifications or additions beyond simple replication.
+  c. "Free Source-Available Project" means a project whose complete source code is freely accessible and licensed for free redistribution and modification.
+
+License Grant and Restrictions:
+  Subject to the terms of this License, the Licensor grants the Licensee a non-exclusive, non-transferable, royalty-free license to use, reproduce, modify, and distribute the Source Code exclusively within public, free, and source-available Projects.
+  Irrevocability: Provided that the Licensee remains in full compliance with all terms and conditions of this License, the license granted herein is irrevocable.
+  Prohibited Uses: The Source Code and any Derivative Work may not be used for commercial, proprietary, or closed-source projects—including any sale or licensing of products or services incorporating any portion of the Source Code.
+  Derivative Work Requirements: Any Derivative Work must incorporate substantial modifications or additions over the original Source Code. The Licensee may not claim an unmodified copy of the Source Code as original work.
+  Attribution: All distributions of Derivative Works or implementations that incorporate the Source Code must include clear and prominent attribution to the Licensor. Such attribution shall include a reference to the original repository and a complete list of all contributors who have ever worked on the specific block of code or idea being used at the time of implementation.
+  Patent Rights: No patent rights are granted under this License. Neither party may assert any patent claims based on the Source Code or any Derivative Work.
+
+Contributions:
+  Any modifications, enhancements, or contributions made directly to the original project or its Derivative Works—including code, documentation, or ideas—are hereby licensed under the terms of this License. This provision applies solely to contributions made to the original project and its Derivative Works, and does not extend to projects that merely utilize the Source Code or its underlying ideas without contributing modifications.
+
+Ownership and Sublicensing:
+  The Source Code remains the sole property of the Licensor. The rights granted herein are non-transferable and may not be sublicensed or assigned to any third party.
+
+Disclaimer of Warranty and Limitation of Liability:
+  THE SOURCE CODE IS PROVIDED “AS IS,” WITHOUT ANY WARRANTY, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NONINFRINGEMENT. IN NO EVENT SHALL THE LICENSOR BE LIABLE FOR ANY DAMAGES ARISING OUT OF THE USE OR INABILITY TO USE THE SOURCE CODE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+Termination:
+  Any breach of the terms of this License shall result in the immediate termination of all rights granted herein. Upon termination, the Licensee must cease all use of the Source Code and destroy all copies and Derivative Works.
+
+Governing Law and Severability:
+  This License shall be governed by and construed in accordance with the laws of Portugal. If any provision of this License is held invalid or unenforceable, the remaining provisions shall continue in full force and effect.
+
+Entire Agreement and No Endorsement:
+  This License constitutes the entire agreement between the Licensee and the Licensor regarding the Source Code. Use of the Source Code signifies acceptance of all terms and conditions herein. Nothing in this License grants any rights to use the Licensor’s names, trademarks, or other proprietary designations, except as necessary to comply with the attribution requirement.
